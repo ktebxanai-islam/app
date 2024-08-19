@@ -1,0 +1,58 @@
+body {
+ background: #FBF3F2;
+}
+img {
+ width: 170px;
+ height: 230px;
+ border-radius: 20px;
+}
+.xwen {
+ margin: 5px 0 0 63px;
+}
+margin: -10px 0 0 48px;
+
+}
+.dipo {
+ margin: -5 0 0 100px;
+}
+.ktebleft {
+background: #032539;
+width: 200px;
+height: 310px;
+border-radius: 20px;
+box-shadow:0 0 5px #FA991C;
+margin: 0 0 0 -7px;
+
+}
+button {
+ color: black;
+ background: #FA991C;
+ border-radius: 15px;
+
+}
+.titlaka {
+ color: #FBF3F2;
+ background :#032539;
+ position: sticky;
+ top: 0;
+ width: 335px;
+ height: 80px;
+ margin: -10px 0 0 -10px;
+ padding: 1px 0 0 110px;
+}
+
+
+
+
+.ktebright {
+ background: #032539;
+width: 200px;
+height: 310px;
+border-radius: 20px;
+box-shadow:0 0 5px #FA991C;
+margin: -310px 0 0 205px;
+
+}
+
+
+

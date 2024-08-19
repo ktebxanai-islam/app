@@ -1,0 +1,51 @@
+body {
+ background: #FBF3F2;
+}
+hr {
+color: #1C768F;
+box-shadow:1px 1px 3px gray
+}
+button{
+width:398px;
+height:70px;
+margin:20px 0 10px 0;
+background:#FA991C;
+border-radius:30px 30px 30px 30px;
+border:solid 2px #1C768F;
+box-shadow:1px 1px 10px gray;
+}
+.select{
+color: #032539;
+text-decoration:none;
+position:sticky;
+margin:-5px 0 0 0;
+}
+.name{
+color: #032539;
+margin:-10px 0 0 0;
+}
+.titlaka {
+ color: #FBF3F2;
+ background :#032539;
+ position: sticky;
+ top: 0;
+ width: 335px;
+ height: 80px;
+ margin: -10px 0 0 -10px;
+ padding: 1px 0 0 90px;
+}
+a {
+ text-decoration: none;
+}
+.para {
+ color: #032539;
+ background: #FA991C;
+ width: 16px;
+ margin: -5px 0 0 180px;
+ box-shadow:0 3px 4px black;
+}
+.telegram {
+margin: -15px 0 0 172px;
+
+}
+
